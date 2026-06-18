@@ -1,0 +1,5 @@
+py-cord==2.6.1
+fake-useragent
+cloudscraper
+websocket-client
+requests
